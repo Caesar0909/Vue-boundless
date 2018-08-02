@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Oradea, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "2",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Paris, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "3",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Timisoara, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "4",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Bucharest, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "5",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Marseille, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "6",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Viena, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "7",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Belgrad, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "8",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Venetia, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "9",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Malaga, Europe",
+    "vendor": "Meraki"
+  },
+  {
+    "id": "10",
+    "status": "active",
+    "name": "AP Front of Store",
+    "mac_address": "00:55:12:44:35:33",
+    "site": "Etam France",
+    "tags": "Atena, Europe",
+    "vendor": "Meraki"
+  }
+]

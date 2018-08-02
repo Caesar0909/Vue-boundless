@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  },
+  {
+    "id": "2",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  },
+  {
+    "id": "3",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  },
+  {
+    "id": "4",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  },
+  {
+    "id": "5",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  },
+  {
+    "id": "6",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  },
+  {
+    "id": "7",
+    "authentication_method": "Facebook",
+    "site": "Etam Paris",
+    "wifi_access_mode": "Guest",
+    "name": "Pierre Hayon",
+    "last_seen_at": "2017-04-12T22:26:20Z",
+    "email": "pierre@ohwee.fr",
+    "duration": "30 minutes"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Pierre Hayon",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "2",
+    "campaign": "Ivizone Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "John Legend",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "3",
+    "campaign": "Ivisky Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Shane Watson",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "4",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Sidney Burks",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "5",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Mohit Panjwani",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "6",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Christian Grey",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "7",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Pierre Hayon",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "8",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Pierre Hayon",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  },
+  {
+    "id": "9",
+    "campaign": "Etam Summer Campaign",
+    "splash_page": "Etam on the Beach",
+    "owner": "Pierre Hayon",
+    "created_at": "2017-04-12T22:26:20Z",
+    "status": "On line"
+  }
+]

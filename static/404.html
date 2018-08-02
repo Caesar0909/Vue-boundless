@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Error 404: Resource not found | Phoenix</title>
+  <link rel="Shortcut Icon" href="./images/favicon.ico" type="image/x-icon"/>
+  <script>
+    var timeleft = 10;
+    var downloadTimer = setInterval(function () {
+      document.getElementById('progressBar').value = 10 - --timeleft;
+      if (timeleft <= 0) clearInterval(downloadTimer)
+    }, 1e3);
+
+    function load () {
+      setTimeout(function () {
+        window.location.replace('/')
+      }, 1e4)
+    }
+    window.onload = load
+  </script>
+
+  <style type="text/css">
+    body {
+      background: #f0f0f0;
+    }
+
+    .err404 {
+      max-width: 800px;
+      margin: 50px auto 0;
+      text-align: center;
+    }
+
+    .err {
+      background: #f9f9f9;
+      padding: 10px 30px 30px;
+    }
+
+    img {
+      position: relative;
+      width: 190px;
+      margin: 30px 0 0;
+    }
+
+    h1, h2 {
+      text-transform: uppercase;
+      margin-top: 0;
+    }
+
+    h1 {
+      font-size: 120px;
+      color: #ccc;
+      margin-bottom: 0
+    }
+
+    h2 {
+      font-size: 32px;
+      color: #0D2B3B
+    }
+
+    hr {
+      margin-top: 1px;
+      margin-bottom: 1px;
+      border: 0;
+      border-top: 1px solid #DDDDDD;
+    }
+
+    p, p a {
+      font-family: Georgia, "Times New Roman", Times, serif;
+      color: #0D2B3B;
+      font-size: 16px
+    }
+
+    p a {
+      color: #337ab7;
+    }
+
+    small {
+      font-style: italic;
+      font-size: 13px;
+      color: #888;
+      padding-bottom: 60px;
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="err404">
+    <div class="err">
+      <a href="/"><img class="not-responsive" src="/static/images/logo.png"></a>
+      <h1>404</h1>
+      <h2>Resource not found</h2>
+      <p>The resource you're looking for doesn't exist at this address. Please use the <a href="/">navigation</a> to continue</p>
+      <small>You will be automatically redirected to the home page if you perform no action.</small>
+      <progress value="0" max="10" id="progressBar"></progress>
+    </div>
+  </div>
+</body>
+</html>

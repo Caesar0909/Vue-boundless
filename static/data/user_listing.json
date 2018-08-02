@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Michel Hayon",
+    "email": "michel@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  },
+  {
+    "id": "2",
+    "name": "Pierre Hayon",
+    "email": "pierre@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  },
+  {
+    "id": "3",
+    "name": "Pierre Hayon",
+    "email": "pierre@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  },
+  {
+    "id": "4",
+    "name": "Pierre Hayon",
+    "email": "pierre@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  },
+  {
+    "id": "5",
+    "name": "Pierre Hayon",
+    "email": "pierre@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  },
+  {
+    "id": "6",
+    "name": "Pierre Hayon",
+    "email": "pierre@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  },
+  {
+    "id": "7",
+    "name": "Pierre Hayon",
+    "email": "pierre@ohwee.fr",
+    "permissions": "Etam France - Admin",
+    "job_title": "Design Lead",
+    "last_connected_at": "2017-04-12T22:26:20Z"
+  }
+]

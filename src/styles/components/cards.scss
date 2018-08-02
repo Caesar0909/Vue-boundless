@@ -1,0 +1,14 @@
+.card {
+  width: 100%;
+  background: white;
+  box-shadow: none;
+
+  &.small{
+    padding: 20px;
+  }
+
+  &.no-pad {
+    padding: 0;
+  }
+
+}

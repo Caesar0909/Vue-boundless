@@ -1,0 +1,100 @@
+[
+  {
+    "icon": "lock",
+    "title": "Administration",
+    "route": "administration",
+    "submenu": [
+      {
+        "title": "Permissions Manager",
+        "route": "PermissionsManager"
+      },
+      {
+        "title": "Feature Activation",
+        "route": "FeatureActivation"
+      },
+      {
+        "title": "Internal User management",
+        "route": "InternalUserManagement"
+      },
+      {
+        "title": "Organizational Summary ",
+        "route": "OrganizationalSummary"
+      }
+    ]
+  },
+  {
+    "icon": "pie_chart",
+    "title": "Monitoring",
+    "submenu": [
+      {
+        "title": "Wifi Analytics",
+        "route": "WifiAnalytics"
+      },
+      {
+        "title": "Connected Visitors",
+        "route": "Visitors"
+      }
+    ]
+  },
+  {
+    "icon": "email",
+    "title": "Marketing",
+    "active": "/marketing",
+    "submenu": [
+      {
+        "title": "Splash Pages",
+        "route": "SplashPages"
+      },
+      {
+        "title": "Campaigns",
+        "route": "Campaigns"
+      },
+      {
+        "title": "Media Library",
+        "route": "MediaLibrary"
+      }
+    ]
+  },
+  {
+    "icon": "location_city",
+    "title": "Venues",
+    "route": "ContactUs"
+  },
+  {
+    "icon": "wifi",
+    "title": "Wifi Access",
+    "submenu": [
+      {
+        "title": "Authorizations",
+        "route": "WifiSettingsAuthorizationListing"
+      },
+      {
+        "title": "Configuration",
+        "route": "WifiConfiguration"
+      }
+    ]
+  },
+  {
+    "icon": "business_center",
+    "title": "Organization",
+    "active": "/organization",
+    "submenu": [
+      {
+        "title": "Settings",
+        "route": "OrganizationSettings"
+      },
+      {
+        "title": "Users",
+        "route": "OrganizationUsers"
+      },
+      {
+        "title": "Device Inventory",
+        "route": "OrganizationInventory"
+      },
+      {
+        "title": "Activity Log",
+        "route": "OrganizationActivityLog"
+      }
+    ]
+  }
+]

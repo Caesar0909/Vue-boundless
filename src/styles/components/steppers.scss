@@ -1,0 +1,63 @@
+.application .theme--light.stepper,
+.theme--light .stepper {
+  background: transparent;
+  box-shadow: none;
+}
+
+.stepper, .stepper__header {
+  box-shadow: none;
+  border: none;
+}
+
+.stepper__content {
+  padding: 0;
+}
+
+.application .theme--light.stepper .stepper__step__step,
+.theme--light .stepper .stepper__step__step {
+  background-color: transparent !important;
+  height: 45px;
+  width: 45px;
+  border: 1px solid #d8deea !important;
+  color: #95a8c6;
+  font-size: 16px;
+
+  .icon {
+    color: #95a8c6;
+  }
+
+  &.primary {
+    color: $primary;
+
+    .icon {
+      color: $primary;
+    }
+    border: 1px solid $primary !important;
+  }
+}
+
+.step-heading {
+  font-family: 'Fira Sans', sans-serif;
+  color: #354c77;
+  font-weight: normal;
+  font-size: 21px;
+}
+
+.condition-text {
+  color: #a0afcc;
+  font-size: 12px;
+}
+
+.stepper__header .stepper__step:first-child {
+  padding-left: 0;
+}
+
+.stepper__header .stepper__step:last-child {
+  padding-right: 0;
+}
+
+.input-group.input-group--append-icon label,
+.input-group.input-group--prepend-icon label,
+.input-group.input-group--selection-controls label {
+  max-width: calc(100% - 48px);
+}

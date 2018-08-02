@@ -1,0 +1,136 @@
+// Tables
+//----------------------------------
+
+.application .theme--light.table, .theme--light .table{
+  background-color: transparent;
+  border-collapse: separate;
+  border-spacing: 0 6px;
+
+  td { border: solid 1px transparent; background-color: white; }
+  th { border: solid 1px transparent; background-color: #f8fafc; }
+  tr td:first-child, tr th:first-child { border-top-left-radius: 6px; border-bottom-left-radius: 6px; }
+  tr td:last-child, tr th:last-child { border-top-right-radius: 6px; border-bottom-right-radius: 6px; }
+
+  .datatable__progress{
+    display: none;
+  }
+  .datatable__progress th{
+    background: none;
+  }
+  .icon {
+    color: #9ba9c4;
+  }
+}
+
+.application .theme--light.table thead tr:first-child,
+.theme--light .table thead tr:first-child {
+  background-color: transparent;
+}
+
+.application .theme--light.table thead th,
+.theme--light .table thead th {
+  color: #9ba9c4;
+  font-size: 14px;
+}
+
+.application .theme--light.datatable thead th.column.sortable.active,
+.application .theme--light.datatable thead th.column.sortable.active i,
+.application .theme--light.datatable thead th.column.sortable:hover,
+.theme--light .datatable thead th.column.sortable.active,
+.theme--light .datatable thead th.column.sortable.active i,
+.theme--light .datatable thead th.column.sortable:hover {
+  color: darken(#9ba9c4, 20%);
+}
+
+table.table thead tr {
+  height: 40px;
+}
+
+table.table tbody tr {
+  margin-top: 6px;
+  background-color: transparent;
+  transition: all 0.3s ease-in-out;
+
+  td:first-child {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      content: '';
+      left: -8px;
+      width: 7px;
+      height: calc(100% - 20px);
+      top: 10px;
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+      border-radius: 6px;
+      background: #aa85d9;
+      opacity: 0;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  &:hover {
+    background-color: #ecf8ff !important;
+    color: $primary;
+
+    td {
+      color: $primary;
+    }
+
+    td::before {
+      opacity: 1;
+    }
+
+    .icon {
+      color: $primary !important;
+    }
+
+    .btn--active .btn__content:before,
+    .btn:focus .btn__content:before,
+    .btn:hover .btn__content:before {
+      background-color:  darken(#ecf8ff, 60%) !important
+    }
+  }
+}
+
+table.table tbody td {
+  font-size: 15px;
+  height: 60px;
+  color: #00082a;
+}
+
+.datatable__actions {
+  border-radius: 10px;
+}
+
+.application .theme--light.datatable .datatable__actions, .theme--light .datatable .datatable__actions {
+  border-top: 0;
+}
+
+.datatable__actions__select .input-group--select {
+  margin: 0 0 0 34px;
+}
+
+.datatable__actions__range-controls {
+  min-height: 42px;
+
+  .btn {
+    margin: 0;
+  }
+
+}
+
+.datatable__actions .btn:last-of-type {
+  margin-right: 10px;
+}
+
+.table__overflow {
+  overflow-x: visible;
+  overflow-y: visible;
+
+  @media only screen and (max-width: 768px) {
+   overflow-x: auto;
+   overflow-y: hidden;
+  }
+}

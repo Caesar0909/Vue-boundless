@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "2",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "3",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "4",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "5",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "6",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "7",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "8",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  },
+  {
+    "id": "9",
+    "authorized_at": "2017-04-12T22:26:20Z",
+    "authorizer_email": "sidney@gmail.com",
+    "visitor_email": "visitor@company.com",
+    "authorized_duration": "30 mins",
+    "authenticated_at": "2018-04-12T22:26:20Z",
+    "site": "Etam Paris",
+    "type": "Sponsor"
+  }
+]

@@ -1,0 +1,53 @@
+.selection-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 20px 0;
+  margin-left: -5px;
+  margin-right: -5px;
+
+  .list-item {
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+    border-radius: 3px;
+    margin: 5px;
+    flex: 1;
+    min-width: 15%;
+    cursor: pointer;
+    border: 1px solid $primary;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    line-height: 1.5;
+    max-width: 180px;
+    padding: 30px;
+    background-color: transparent;
+    text-transform: uppercase;
+
+    &.active {
+      background-color: $primary;
+      color: #fff;
+
+      p, a {
+        color: #ffffff;
+      }
+    }
+
+    .icon {
+      margin-top: 15px;
+      height: 30px;
+    }
+
+    p, a {
+      text-decoration: none;
+      margin: 0;
+      line-height: 1.2;
+      font-weight: bold;
+      font-size: 15px;
+      color: $primary;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+.tabs-simple {
+
+  .tabs__bar {
+    background-color: transparent !important;
+  }
+
+  .tabs__item {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 15px;
+    padding: 0;
+    margin-right: 40px;
+    font-weight: bold;
+    color: #9ba9c4;
+    opacity: 1 !important;
+    position: relative;
+    text-transform: none;
+
+    &.tabs__item--active {
+      color: $black;
+    }
+  }
+
+  .tabs__slider-wrapper {
+    width: 30px !important;
+  }
+
+  .tabs__slider {
+    height: 4px !important;
+    background-color: $green !important;
+    border-color: $green !important;
+  }
+}

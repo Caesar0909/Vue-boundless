@@ -1,0 +1,29 @@
+.application.theme--light {
+  background: #eff3f8 !important;
+}
+
+.application {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu__content {
+  box-shadow: none;
+}
+
+.dialog {
+  padding: 50px 60px 40px 60px !important;
+}
+
+.datatable__actions {
+  display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.small-heading {
+  font-size: 23px;
+  color: #354c77;
+  font-weight: normal;
+}
